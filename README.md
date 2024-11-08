@@ -8,11 +8,10 @@
 ## 🚀 **Languages & Technologies**:
 
 ### **Programming Languages**:
-- **Shell Scripting** 
+- **Shell Scripting**
+- **Python**
 - **Java** 
 - **C** 
-- **Python**
-- **Shell Scripting** 
 
 ### **Databases**:
 - **MySQL** 

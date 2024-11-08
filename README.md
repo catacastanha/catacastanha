@@ -1,8 +1,9 @@
 # **HELLO WORLD!**
-### My name is 🌟**CATARINA**🌟
+### My name is ✨**CATARINA**✨
 > [!NOTE]
-> ###  💻i am a Computer Science student
-> ### 📍i currently live in ___**BRASIL**___
+> ### 💻 - Computer Science Student
+> ### 📍 -  ___**BRASIL**___
+
 ---
 ## 🚀 **Languages & Technologies**:
 

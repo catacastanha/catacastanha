@@ -4,8 +4,7 @@
 > ###  i am a Computer Science student
 > ### - i currently live in ***BRASIL***
 ---
-
-## 🚀 **Languages & Technologies I Work with and/or study with**:
+## 🚀 **Languages & Technologies**:
 
 ### **Programming Languages**:
 - **Shell Scripting** 
@@ -21,6 +20,6 @@
 
 ### **Linux & Servers**:
 - 🖥 **Linux Servers**  
-- 🔄 **Automation** – Shell scripting for automating tasks and processes.
+- 🔄 **Automation** 
 - 📡 **Networking**
 ---

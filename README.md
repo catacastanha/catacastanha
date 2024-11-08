@@ -1,2 +1,4 @@
 ### HELLO WORLD!
-## My name's Catarina and i am a computer sciencie student at 📍Brasil :D
+## My name is CATARINA
+# i am a Computer Science student
+# i currently live in BRASIL

@@ -1,4 +1,5 @@
-# HELLO WORLD!
-### My name is CATARINA
-### i am a Computer Science student
-### i currently live in BRASIL
+# **HELLO WORLD!**
+### My name is ***CATARINA***
+> [!NOTE]
+> ### - i am a Computer Science student
+> ### - i currently live in ***BRASIL***
